@@ -122,85 +122,85 @@ Your Angular frontend automatically knows the exact structure of your API respon
 <tbody>
 <tr>
 <td style="padding: 8px 12px;"><strong>Bash/CLI Helper</strong></td>
-<td style="padding: 8px 12px;">![Status](https://img.shields.io/badge/Status-Not%20Started-red)</td>
+<td style="padding: 8px 12px;"><img alt="Status" src="https://img.shields.io/badge/Status-Not%20Started-red" /></td>
 <td style="padding: 8px 12px;">Enhanced CLI tools for project management, database operations, and deployment</td>
 <td style="padding: 8px 12px;">—</td>
 </tr>
 <tr>
 <td style="padding: 8px 12px;"><strong>Deployment Scripts</strong></td>
-<td style="padding: 8px 12px;">![Status](https://img.shields.io/badge/Status-Not%20Started-red)</td>
+<td style="padding: 8px 12px;"><img alt="Status" src="https://img.shields.io/badge/Status-Not%20Started-red" /></td>
 <td style="padding: 8px 12px;">Automated deployment workflows and production setup</td>
 <td style="padding: 8px 12px;">—</td>
 </tr>
 <tr>
 <td style="padding: 8px 12px;"><strong>Zipcode Collection Population</strong></td>
-<td style="padding: 8px 12px;">![Status](https://img.shields.io/badge/Status-Not%20Started-red)</td>
+<td style="padding: 8px 12px;"><img alt="Status" src="https://img.shields.io/badge/Status-Not%20Started-red" /></td>
 <td style="padding: 8px 12px;">Automated script to populate zipcode collection using mongodump/restore</td>
 <td style="padding: 8px 12px;">—</td>
 </tr>
 <tr>
 <td style="padding: 8px 12px;"><strong>Audit History</strong></td>
-<td style="padding: 8px 12px;">![Status](https://img.shields.io/badge/Status-Not%20Started-red)</td>
+<td style="padding: 8px 12px;"><img alt="Status" src="https://img.shields.io/badge/Status-Not%20Started-red" /></td>
 <td style="padding: 8px 12px;">Complete audit trail system with frontend configuration support</td>
 <td style="padding: 8px 12px;">—</td>
 </tr>
 <tr>
 <td style="padding: 8px 12px;"><strong>Angular Frontend Extension</strong></td>
-<td style="padding: 8px 12px;">![Status](https://img.shields.io/badge/Status-Not%20Started-red)</td>
+<td style="padding: 8px 12px;"><img alt="Status" src="https://img.shields.io/badge/Status-Not%20Started-red" /></td>
 <td style="padding: 8px 12px;">Angular v21 with signals, auth service, multiple layouts, user preferences, Cordova compilation for iOS/Android stores</td>
 <td style="padding: 8px 12px;">—</td>
 </tr>
 <tr>
 <td style="padding: 8px 12px;"><strong>Ultra-Simple Startup</strong></td>
-<td style="padding: 8px 12px;">![Status](https://img.shields.io/badge/Status-Not%20Started-red)</td>
+<td style="padding: 8px 12px;"><img alt="Status" src="https://img.shields.io/badge/Status-Not%20Started-red" /></td>
 <td style="padding: 8px 12px;">Docker-based instant setup with MongoDB, zipcode data, and Postman collection</td>
 <td style="padding: 8px 12px;">—</td>
 </tr>
 <tr>
 <td style="padding: 8px 12px;"><strong>Performance Monitoring</strong></td>
-<td style="padding: 8px 12px;">![Status](https://img.shields.io/badge/Status-Not%20Started-red)</td>
+<td style="padding: 8px 12px;"><img alt="Status" src="https://img.shields.io/badge/Status-Not%20Started-red" /></td>
 <td style="padding: 8px 12px;">APM integration, request/response metrics, and performance insights</td>
 <td style="padding: 8px 12px;">—</td>
 </tr>
 <tr>
 <td style="padding: 8px 12px;"><strong>Testing Utilities</strong></td>
-<td style="padding: 8px 12px;">![Status](https://img.shields.io/badge/Status-Review%20Requested-purple)</td>
+<td style="padding: 8px 12px;"><img alt="Status" src="https://img.shields.io/badge/Status-Review%20Requested-purple" /></td>
 <td style="padding: 8px 12px;">Base test classes, mocking utilities, and testing patterns</td>
 <td style="padding: 8px 12px;">—</td>
 </tr>
 <tr>
 <td style="padding: 8px 12px;"><strong>Caching Layer</strong></td>
-<td style="padding: 8px 12px;">![Status](https://img.shields.io/badge/Status-Not%20Started-red)</td>
+<td style="padding: 8px 12px;"><img alt="Status" src="https://img.shields.io/badge/Status-Not%20Started-red" /></td>
 <td style="padding: 8px 12px;">Redis integration for common operations and query caching</td>
 <td style="padding: 8px 12px;">—</td>
 </tr>
 <tr>
 <td style="padding: 8px 12px;"><strong>Mobile API Support</strong></td>
-<td style="padding: 8px 12px;">![Status](https://img.shields.io/badge/Status-Not%20Started-red)</td>
+<td style="padding: 8px 12px;"><img alt="Status" src="https://img.shields.io/badge/Status-Not%20Started-red" /></td>
 <td style="padding: 8px 12px;">Mobile-specific response formats and optimization</td>
 <td style="padding: 8px 12px;">—</td>
 </tr>
 <tr>
 <td style="padding: 8px 12px;"><strong>Internationalization</strong></td>
-<td style="padding: 8px 12px;">![Status](https://img.shields.io/badge/Status-Not%20Started-red)</td>
+<td style="padding: 8px 12px;"><img alt="Status" src="https://img.shields.io/badge/Status-Not%20Started-red" /></td>
 <td style="padding: 8px 12px;">i18n support for multi-language APIs and responses</td>
 <td style="padding: 8px 12px;">—</td>
 </tr>
 <tr>
 <td style="padding: 8px 12px;"><strong>WebSocket Support</strong></td>
-<td style="padding: 8px 12px;">![Status](https://img.shields.io/badge/Status-Not%20Started-red)</td>
+<td style="padding: 8px 12px;"><img alt="Status" src="https://img.shields.io/badge/Status-Not%20Started-red" /></td>
 <td style="padding: 8px 12px;">Real-time communication, live updates, and event streaming</td>
 <td style="padding: 8px 12px;">—</td>
 </tr>
 <tr>
 <td style="padding: 8px 12px;"><strong>GraphQL Integration</strong></td>
-<td style="padding: 8px 12px;">![Status](https://img.shields.io/badge/Status-Considering-orange)</td>
+<td style="padding: 8px 12px;"><img alt="Status" src="https://img.shields.io/badge/Status-Considering-orange" /></td>
 <td style="padding: 8px 12px;">Flexible query language for efficient data fetching and API flexibility</td>
 <td style="padding: 8px 12px;">—</td>
 </tr>
 <tr>
 <td style="padding: 8px 12px;"><strong>Ollama LLM Integration</strong></td>
-<td style="padding: 8px 12px;">![Status](https://img.shields.io/badge/Status-Not%20Started-red)</td>
+<td style="padding: 8px 12px;"><img alt="Status" src="https://img.shields.io/badge/Status-Not%20Started-red" /></td>
 <td style="padding: 8px 12px;">Cost-effective AI capabilities with local LLM models for intelligent features</td>
 <td style="padding: 8px 12px;">—</td>
 </tr>

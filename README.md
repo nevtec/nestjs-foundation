@@ -1,4 +1,4 @@
-# @nevtec/nestjs-foundation
+# nevtec/nestjs-foundation
 
 # NevTec NestJS API Framework
 

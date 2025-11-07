@@ -1,4 +1,4 @@
-# the-nucleus-premis/nestjs-foundation
+# the-nucleus-premise/nestjs-foundation
 
 # The Nucleus Premise NestJS API Framework
 

@@ -1,6 +1,6 @@
-# nevtec/nestjs-foundation
+# the-nucleus-premis/nestjs-foundation
 
-# NevTec NestJS API Framework
+# The Nucleus Premise NestJS API Framework
 
 A comprehensive, production-ready NestJS framework designed to accelerate development and eliminate repetitive CRUD operations. This framework of thinking has evolved over the past 10 years, and as soon as we found NestJS, we knew it was a game changer and also very familiar since we use Angular for the frontend. Built with SOLID principles and DRY methodology, NevTec provides everything you need to jump-start your next API project. We are excited for this version of our framework and have some exciting ideas to do with it. As we continue to work on it, feedback is very helpful! Looking for peer review, suggestions, criticism, kudos, and insights on what we might be missing.
 
